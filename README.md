@@ -51,28 +51,22 @@ This open-source project is designed for developers, students, and entrepreneurs
 5. **Access the website via browser and start exploring!**
 
 ---
-
 ## Database Configuration
 
-    - Database Name: vbc_live
-
-    - SQL File: vbc_live.sql (included in repo)
-
----
-
-### 👥 Contributors
-
-    <ul>
-        <li><a href="https://github.com/PrathameshKumarSah" target="_blank">Prathamesh Kumar Sah</a></li>
-        <li><a href="https://github.com/sandy152001" target="_blank">Sahil Kumar</a></li> 
-        <li><a href="https://github.com/Sahil-Verma30" target="_blank">Sahil Verma</a></li> 
-        <li><a href="https://github.com/vijay649" target="_blank">Vijay Sharma</a></li> 
-    </ul>
+- Database Name: vbc_live
+- SQL File: vbc_live.sql (included in repo)
 
 ---
 
-### Open Innovation & Contribution
+## 👥 Contributors
 
-    We welcome contributions, bug reports, feature requests, and improvements! If you'd like to contribute, please fork the repository, create a new branch, and submit a pull request. Let’s build the future of e-commerce together with open innovation.
+- [Prathamesh Kumar Sah](https://github.com/PrathameshKumarSah)
+- [Sahil Kumar](https://github.com/sandy152001)
+- [Sahil Verma](https://github.com/Sahil-Verma30)
+- [Vijay Sharma](https://github.com/vijay649)
 
+---
 
+## Open Innovation & Contribution
+
+We welcome contributions, bug reports, feature requests, and improvements! If you'd like to contribute, please fork the repository, create a new branch, and submit a pull request. Let’s build the future of e-commerce together with open innovation.
