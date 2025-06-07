@@ -1,1 +1,37 @@
-"# VBC" 
+# 🛒 VBC – Full-Featured E-Commerce Website with Admin Panel
+
+**VBC** is a comprehensive and user-friendly **e-commerce web application** built using **PHP, MySQL, HTML, CSS, and JavaScript**. It includes a powerful **admin panel** to manage products, orders, users, and more.
+
+This open-source project is designed for developers, students, and entrepreneurs to learn, build, and innovate in the world of full-stack web development.
+
+---
+
+## 🚀 Features
+
+- 🧾 Dynamic Product Listings with Add to Cart functionality
+- 👤 User Authentication (Register/Login)
+- 🛒 Shopping Cart & Checkout Simulation
+- 🧑‍💼 Admin Dashboard (Manage Products, Users, Orders)
+- 📦 Order Management System
+- 📊 Clean UI using HTML/CSS/JS
+- 💽 MySQL Database Integration (`vbc_live.sql` provided)
+
+---
+
+## 🛠️ Tech Stack
+
+| Layer        | Technology               |
+|--------------|---------------------------|
+| Frontend     | HTML, CSS, JavaScript     |
+| Backend      | PHP                        |
+| Database     | MySQL                     |
+| Admin Panel  | PHP, HTML, JS, CSS        |
+
+---
+
+## 🧑‍💻 Local Setup Instructions
+
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/your-username/vbc.git
+   cd vbc
