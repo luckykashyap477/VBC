@@ -20,75 +20,59 @@ This open-source project is designed for developers, students, and entrepreneurs
 
 ## 🛠️ Tech Stack
 
-| Layer        | Technology               |
-|--------------|---------------------------|
-| Frontend     | HTML, CSS, JavaScript     |
-| Backend      | PHP                        |
-| Database     | MySQL                     |
-| Admin Panel  | PHP, HTML, JS, CSS        |
+| Layer       | Technology            |
+| ----------- | --------------------- |
+| Frontend    | HTML, CSS, JavaScript |
+| Backend     | PHP                   |
+| Database    | MySQL                 |
+| Admin Panel | PHP, HTML, JS, CSS    |
 
 ---
 
 ## 🧑‍💻 Local Setup Instructions
 
 1. **Clone the Repository**
+
    ```bash
    git clone https://github.com/your-username/vbc.git
    cd vbc
 
-Import the Database
+   ```
 
-Open phpMyAdmin or your preferred MySQL tool.
+2. **Import the database file vbc_live.sql into your MySQL server.**
 
-Create a database named vbc_live.
+3. **Configure your database connection in the project files to use:**
 
-Import the vbc_live.sql file located in the repo.
+   - Database name: vbc_live
+   - Your MySQL username and password
 
-Configure Database Connection
-Open your PHP config file and update database credentials:
+4. **Upload the files to your local or web server supporting PHP and MySQL.**
 
-php
-Copy
-Edit
-$dbHost = 'localhost';
-$dbUser = 'root';
-$dbPass = ''; // Update if you have a password
-$dbName = 'vbc_live';
-Run the Project
+5. **Access the website via browser and start exploring!**
 
-Start your local web server (XAMPP, WAMP, etc.).
+---
 
-Navigate to: http://localhost/vbc/ in your browser.
+## Database Configuration
 
-🔒 Database Info
-Database Name: vbc_live
+    - Database Name: vbc_live
 
-SQL File: vbc_live.sql (included in the repo)
+    - SQL File: vbc_live.sql (included in repo)
 
-🤝 Contributing & Open Innovation
-We welcome developers from all levels to contribute and collaborate!
+---
 
-💡 How to Contribute
-Fork this repository.
+### 👥 Contributors
 
-Create a new feature branch:
+    <ul>
+        <li><a href="https://github.com/PrathameshKumarSah" target="_blank">Prathamesh Kumar Sah</a></li>
+        <li><a href="https://github.com/sandy152001" target="_blank">Sahil Kumar</a></li> 
+        <li><a href="https://github.com/Sahil-Verma30" target="_blank">Sahil Verma</a></li> 
+        <li><a href="https://github.com/vijay649" target="_blank">Vijay Sharma</a></li> 
+    </ul>
 
-bash
-Copy
-Edit
-git checkout -b feature/your-feature-name
-Make your changes.
+---
 
-Commit and push:
+### Open Innovation & Contribution
 
-bash
-Copy
-Edit
-git commit -m "Added new feature"
-git push origin feature/your-feature-name
-Submit a Pull Request.
+    We welcome contributions, bug reports, feature requests, and improvements! If you'd like to contribute, please fork the repository, create a new branch, and submit a pull request. Let’s build the future of e-commerce together with open innovation.
 
-✅ All contributions are welcome — from fixing bugs to adding new features or improving documentation.
 
-👥 Contributors
-<ul> <li><a href="https://github.com/PrathameshKumarSah" target="_blank">Prathamesh Kumar Sah</a></li> <li><a href="https://github.com/sandy152001" target="_blank">Sahil Kumar</a></li> <li><a href="https://github.com/Sahil-Verma30" target="_blank">Sahil Verma</a></li> <li><a href="https://github.com/vijay649" target="_blank">Vijay Sharma</a></li> </ul>
