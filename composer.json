@@ -1,0 +1,5 @@
+{
+  "name": "my-php-app",
+  "description": "A simple PHP app deployed on Render",
+  "require": {}
+}
